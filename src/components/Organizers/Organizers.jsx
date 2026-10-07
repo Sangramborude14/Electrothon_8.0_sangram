@@ -41,7 +41,8 @@ export default function Organizers() {
     "Shreshth Sharma",
     "Sona",
     "Vaibhav Sharma",
-    "Vyom Sharma"
+    "Vyom Sharma",
+    "Rajvil Choudhary"
   ];
 
   const sliderA = sliderAImages.map((img, idx) => ({
