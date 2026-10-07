@@ -14,7 +14,7 @@ const Data = [
     id: "1",
     name: "Archit",
     profilepic: "/testimonials/Archit/profile.webp",
-    date: "1w",
+    date: "4 month",
     content:
       "Electrothon 8.0 has officially wrapped up, and what an incredible experience it has been 🚀 Grateful to be part of such an amazing hackathon where innovation, collaboration, and learning came together at one place. From brainstorming ideas to building solutions under pressure — every moment was worth it!",
     postpic: "/testimonials/Archit/1773811977891.webp",
@@ -23,7 +23,7 @@ const Data = [
     id: "2",
     name: "Ashish Gupta",
     profilepic: "/testimonials/default_pfp.svg",
-    date: "1w",
+    date: "13w",
     content:
       "“Electrothon 8.0 was an intense and rewarding experience filled with innovation, teamwork, and real-world problem-solving. Building MedConnect and being recognized with the Best Use of Gemini API award made the journey even more memorable. Huge thanks to SPEC NITH, the mentors, judges, sponsors, and teammates for making this experience truly inspiring!”",
     postpic: "/testimonials/Ashish Gupta/1774377013283.jpg",
@@ -50,7 +50,7 @@ const Data = [
     id: "5",
     name: "Tanisha Singh",
     profilepic: "/testimonials/default_pfp.svg",
-    date: "1w",
+    date: "6 month",
     content:
       "What an incredible journey at Electrothon 8.0! GenMobi.Studio sounds like an amazing innovation, and the Best Use of Gemini API recognition is truly well deserved.",
     postpic: "/testimonials/Tanisha Singh/1774543019395.webp",
